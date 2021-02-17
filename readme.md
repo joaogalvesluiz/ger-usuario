@@ -21,7 +21,7 @@ In this project we will build a CRUD for User Management, using JSON, localStora
  []
 
 <!-- See website --> 
-[Check Live](https://joaogalvesluiz.netlify.app/websites/loruki/index.html)
+[Check Live](https://ger-usuario.netlify.app)
 <!-- See tutorial video  --> 
 <!-- [Video](https://www.youtube.com/watch?v=p0bGHP-PXD4&t) -->
 

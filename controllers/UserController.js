@@ -88,7 +88,6 @@ class UserController {
 
   };
 
-
   addLine(dataUser) { 
 
     this.tableEl.innerHTML = `
