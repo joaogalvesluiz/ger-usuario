@@ -16,9 +16,13 @@ In this project we will build a CRUD for User Management, using JSON, localStora
 
 <!-- Features Used in --> 
 ## Features Used <a name = "about"></a>
- * JSON
- * localStorage 
- []
+ * JSON.
+ * MVC.
+ * Object Oriented.
+ * sessionStorage. 
+ * localStorage.
+ * Create, Read, Update, Delete.
+  
 
 <!-- See website --> 
 [Check Live](https://ger-usuario.netlify.app)
