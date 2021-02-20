@@ -19,9 +19,9 @@ In this project we will build a CRUD for User Management, using JSON, localStora
  * JSON.
  * MVC.
  * Object Oriented.
- * sessionStorage. 
+* Create, Read, Update, Delete.
  * localStorage.
- * Create, Read, Update, Delete.
+
   
 
 <!-- See website --> 
